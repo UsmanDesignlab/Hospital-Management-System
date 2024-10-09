@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true, // Add this line
+    "experimentalDecorators": true,
+    "strict": true
+  }
+}
+
